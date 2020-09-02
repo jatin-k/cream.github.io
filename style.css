@@ -3,11 +3,6 @@
 	padding: 0px;
 }
 
-@font-face {
-	font-family: a;
-	src: url("Fonts/DancingScript-VariableFont_wght.ttf");
-}
-
 #Sidebar {
 	background: url("Images/304371-P7QOYK-544.jpg"); 
 	position: absolute;
@@ -23,7 +18,7 @@
 	top: 0%;
 	left: 20%;
 	width: 79%;
-	padding-bottom: 5px;
+	padding-bottom: 10px;
 	position: fixed;
 	z-index: 2;
 	border: 2px solid white;
@@ -37,8 +32,8 @@ li {
 a {
 	text-decoration: none;
 	color: black;
-	font-family: a;
-	font-size: 55px;
+	font-family: cursive;
+	font-size: 40px;
 	padding: 10px;
 }
 
@@ -60,7 +55,7 @@ ul {
 	top: 13%;
 	left: 20%;
 	width: 79%;
-	height: 90%;
+	height: 86%;
 	border: 2px solid white;
 }
 
